@@ -2,7 +2,7 @@ name: QMake Build Matrix
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master ] 
     paths: 
       - 'src/**'
       - '.github/workflows/**'
