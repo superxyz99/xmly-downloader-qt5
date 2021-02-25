@@ -1,7 +1,7 @@
 name: QMake Build Matrix
 
 on:
-  push:
+  push: 
     branches: [ master ] 
     paths: 
       - 'src/**'
